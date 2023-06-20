@@ -17,3 +17,5 @@ Eg if UK is selected so london, etc will show up as it matches that country id
 Read the code to understand it better
 
 All country and State realtions are with IDs
+
+Laravel@2000 is the db file
